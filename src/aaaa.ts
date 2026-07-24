@@ -10,4 +10,5 @@ git in a TypeScript or JavaScript contex
 
 t.It seems to be nonsensical and does not contain any v
 alid syntax or logic that would be executed by a TypeScript compiler or JavaScript engine.
-what is the purpose of this code ?
+what is the purpose
+ of this code ?
